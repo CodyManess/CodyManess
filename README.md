@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Cody Maness (he/him) 👋
+
+I'm a Mobile and Web Developer with a love for creating engaging, accessible, and user-friendly applications
+
+- 🔭 I’m currently working on the myCigna Web Portal.
+- 🌱 I’m currently learning more on accessibility and UI/UX design.
+- 👯 I’m looking to help with open-source projects!
+- 💬 Ask me about my pets, my favorite musicals, my last travel destination, or anything on my portfolio website!
+- 📫 How to reach me: Email!
 
 <!--
 **CodyManess/CodyManess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
